@@ -1,2 +1,2 @@
 # dotfiles
-Preference files for my own personal environments🚀
+Preference files for my own personal operating environments🚀
